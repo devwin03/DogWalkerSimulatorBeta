@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dev/development/dogGame01/build",
+  "command": "/usr/bin/g++ -DSFML_STATIC -isystem /home/dev/SFML/include -g -o CMakeFiles/dogGame01.dir/src/main.cpp.o -c /home/dev/development/dogGame01/src/main.cpp",
+  "file": "/home/dev/development/dogGame01/src/main.cpp"
+}
+]

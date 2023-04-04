@@ -1,0 +1,3 @@
+/home/dev/development/dogGame01/build/CMakeFiles/dogGame01.dir
+/home/dev/development/dogGame01/build/CMakeFiles/edit_cache.dir
+/home/dev/development/dogGame01/build/CMakeFiles/rebuild_cache.dir
